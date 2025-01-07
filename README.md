@@ -16,7 +16,8 @@ Analyzed 6 years (2017-2023) of CPI data, identifying 3 key drivers and creating
 - [Recommendations](#The-Recommendations)
 - [limitations](#The-limitations)
 - [References](#The-References)
-- 
+
+
 ### Key Highlights
 1. Detailed analysis of CPI (Consumer Price Index) inflation trends in India.
 2. Focused on inflation patterns across major categories like Food, Housing, Transportation, etc.

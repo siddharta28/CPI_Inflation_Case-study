@@ -1,4 +1,4 @@
-# CPI_Inflation_Case-study [Watch Here](https://docs.google.com/spreadsheets/d/1-6yY8VMKGDovA0BkHGjZeUiVrZHtE-FO/edit?usp=drive_link&ouid=113571536335636911942&rtpof=true&sd=true)
+# CPI_Inflation_Case-study [(Watch Here)](https://docs.google.com/spreadsheets/d/1-6yY8VMKGDovA0BkHGjZeUiVrZHtE-FO/edit?usp=drive_link&ouid=113571536335636911942&rtpof=true&sd=true)
 ---
 Analyzed 6 years (2017-2023) of CPI data, identifying 3 key drivers and creating 5+ visualisations.
 
